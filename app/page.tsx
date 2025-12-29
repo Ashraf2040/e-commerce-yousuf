@@ -1,3 +1,6 @@
+
+export const dynamic = "force-dynamic";
+
 import { Header } from './components/Header';
 import { Carousel } from './components/Carousel';
 import { ProductCard } from './components/ProductCard';
